@@ -1,0 +1,29 @@
+[
+   {
+      "objectGuid": "fAawssVqCiWdLZKproDPWm",
+      "objectName": "m_Pattern_01",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/MLCL",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010EJT17000000000007"
+         }
+      }
+   }
+]

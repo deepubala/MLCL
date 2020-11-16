@@ -1,0 +1,114 @@
+[
+   {
+      "objectGuid": "i1nl4lcwM8ni1mLOjSvMcC",
+      "objectName": "MCT_C",
+      "objectType": "MTT",
+      "path": "/Explore/Default",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "hgXFgSHk2IddyEnk4u39qz",
+            "fAawssVqCiWdLZKproDPWm",
+            "cRL4uXwPhAej2PKA390B0I"
+         ],
+         "repoInfo": {
+            "repoHandle": "010EJT0Z000000000011"
+         }
+      }
+   },
+   {
+      "objectGuid": "hgXFgSHk2IddyEnk4u39qz",
+      "objectName": "AUW1PF10FDJ9",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010EJT25000000000003"
+         }
+      }
+   },
+   {
+      "objectGuid": "fAawssVqCiWdLZKproDPWm",
+      "objectName": "m_Pattern_01",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/MLCL",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010EJT17000000000007"
+         }
+      }
+   },
+   {
+      "objectGuid": "cRL4uXwPhAej2PKA390B0I",
+      "objectName": "conn_MLCL",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "010EJT0B000000000012"
+         }
+      }
+   }
+]
